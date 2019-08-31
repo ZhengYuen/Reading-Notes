@@ -1,0 +1,237 @@
+Paradox of Choice - Barry Schwartz 
+--------------------------------------------------------------------------------
+1.Education was not just about learning a discipline—it was a way of raising citizens with common values and aspirations. Often the capstone of a college education was a course taught by the college president, a course that integrated the various fields of knowledge to which the students had been exposed. But more important, this course was intended to teach students how to use their college education to live a good and an ethical life, both as individuals and as members of society.
+
+2.So why are drug companies investing big money to reach us, the consumers, directly? Clearly they hope and expect we will notice their products and demand that our doctors write the prescriptions. The doctors are now merely instruments for the execution of our decisions.
+
+3.As journalist Wendy Kaminer puts it, 'Beauty used to be a gift bestowed upon the few for the rest of us to admire. Today it's an achievement, and homeliness is not just misfortune but a failure.'
+
+4.Nobel Prize winning psychologist Daniel Kahneman and his colleagues have shown that what we remember about the pleasurable quality of our past experiences is almost entirely determined by two things: how the experiences felt when they were at their peak (best or worst), and how they felt when they ended.
+
+5.A heuristic is a rule of thumb, a mental shortcut. The availability heuristic works like this: suppose someone asked you a silly question like 'What's more common in English, words that begin with the letter t or words that have t as the third letter?' How would you answer this question? What you probably would do is try to call to mind words that start with t and words that have t as the third letter. You would then discover that you had a much easier time generating words that start with it. So words starting with it would be more 'available' to you than words that have t as the third letter. You would then reason roughly as follows: 'In general, the more often we encounter something, the easier it is for us to recall it in the future. Because I had an easier time recalling words that start with t than recalling words with t as the third letter, I must have encountered them more often in the past. So there must be more words in English that start with t than have it as the third letter.'
+But your conclusion would be wrong.
+The availability heuristic says that we assume that the more available some piece of information is to memory, the more frequently we must have encountered it in the past. This heuristic is partly true. In general, the frequency of experience does affect its availability to memory. But frequency of experience is not the only thing that affects availability to memory. Salience or vividness matters as well. Because starting letters of words are much more salient than third letters, they are much more useful as cues for retrieving words from memory. So it's the salience of starting letters that makes t-words come easily to mind, while people mistakenly think it's the frequency of starting letters that makes them come easily to mind. In addition to affecting the ease with which we retrieve information from memory, salience or vividness will influence the weight we give any particular piece of information.
+
+6.It seems to be a fairly general principle that when making choices among alternatives that involve a certain amount of risk or uncertainty, we prefer a small, sure gain to a larger, uncertain one.
+
+7.In the same way, we give disproportionate weight to whether yogurt is said to be 5 percent fat or 95 percent fat free. People seem to think that yogurt that is 95 percent fat free is a more healthful product than yogurt that has 5 percent fat, not realizing, apparently, that yogurt with 5 percent fat is 95 percent fat free.
+
+8.This phenomenon is called the endowment effect. Once something is given to you, it's yours. Once it becomes part of your endowment, even after a very few minutes, giving it up will entail a loss. And, as prospect theory tells us, because losses are more bad than gains are good, the mug or pen with which you have been 'endowed' is worth more to you than it is to a potential trading partner. And 'losing' (giving up) the pen will hurt worse than 'gaining' (trading for) the mug will give pleasure. Thus, you won't make the trade.
+
+9.Finally, the very wealth of options before us may turn us from choosers into pickers. A chooser is someone who thinks actively about the possibilities before making a decision. A chooser reflects on what's important to him or her in life, what's important about this particular decision, and what the short- and long-range consequences of the decision may be. A chooser makes decisions in a way that reflects awareness of what a given choice means about him or her as a person. Finally,a chooser is thoughtful enough to conclude that perhaps none of the available alternatives are satisfactory, and that if he or she wants the right alternative, he or she may have to create it.
+A picker does none of these things. With a world of choices rushing by like a music video, all a picker can do is grab this or that and hope for the best. Obviously, this is not such a big deal when what's being picked is breakfast cereals. But decisions don't always come at us with signs indicating their relative importance prominently attached. Unfortunately, the proliferation of choice in our lives robs us of the opportunity to decide for ourselves just how important any given decision is.
+
+10.And the first choice you must make is between the goal of choosing the absolute best and the goal of choosing something that is good enough.If you seek and accept only the best, you are a maximizer.
+
+11.When Nobel Prize–winning economist and psychologist Herbert Simon initially introduced the idea of 'satisficing' in the 1950s,he suggested that when all the costs (in time, money, and anguish) involved in getting information about all the options are factored in, satisficing is, in fact, the maximizing strategy. In other words,the best people can do, all things considered, is to satisfice. The perceptiveness of Simon's observation is at the heart of many of the strategies I will offer for fighting back against the tyranny of overwhelming choices.
+
+12.I never settle for second best. Here, self-editing and selfcriticism can lead to inertia.
+
+13.But I need to emphasize one important caveat: What these studies show is that being a maximizer is correlated with being unhappy.They do not show that being a maximizer causes unhappiness, because correlation does not necessarily indicate cause and effect. Nonetheless, I believe that being a maximizer does play a causal role in people's unhappiness, and I believe that learning how to satisfice is an important step not only in coping with a world of choice but in simply enjoying life. 
+
+14.Thus perfectionists, like maximizers, seek to achieve the best. But I think there is an important difference between them. While maximizers and perfectionists both have very high standards, I think that perfectionists have very high standards that they don't expect to meet, whereas maximizers have very high standards that they do expect to meet.
+Which may explain why we found that those who score high on perfectionism, unlike maximizers, are not depressed, regretful, or unhappy. Perfectionists may not be as happy with the results of their actions as they should be, but they seem to be happier with the results of their actions than maximizers are with the results of theirs.
+
+15.Freedom and autonomy are ctitical to our well-being,and  choice is critical to freedom and autonomy. Nonetheless, though modern Americans have more choice than any group of people ever has before, and thus, presumably, more freedom and autonomy, we don't seem to be benefiting from it psychologically.
+
+16.The value of autonomy is built into the fabric of our legal and moral system. Autonomy is what gives us the license to hold one another morally (and legally) responsible for our actions. It's the reason we praise individuals for their achievements and also blame them for their failures.
+
+17.But beyond our political, moral, and social reliance on the idea of autonomy, we now know that it also has a profound influence on our psychological well-being. In the 1960s, psychologist Martin Seligman and his collaborators performed an experiment that involved teaching three different groups of animals to jump over a little hurdle from one side of a box to the other to escape or avoid an electric shock. One of the groups was given the task with no prior exposure to such experiments. A second group had already learned to make a different response, in a different setting, to escape from shock. Seligman and his coworkers expected, and found, that this second group would learn a bit more quickly than the first, reasoning that some of what they had learned in the first experiment might transfer to the second. The third group of animals, also in a different setting, had been given a series of shocks that could not be escaped by any response.
+Remarkably, this third group failed to learn at all. Indeed, many of them essentially had no chance to learn because they didn't even try to escape from the shocks. These animals became quite passive, lying down and taking the shocks until the researchers mercifully ended the experiment.
+
+18.What looks attractive in prospect doesn't always look so good in practice.
+
+19.Being connected to others seems to be much more important to subjective well-being than being rich.
+
+20.So it is at least possible that happiness comes first and close relations come second. What seems likely to me is that the causality works both ways: happy people attract others to them, and being with others makes people happy.
+
+21.More than a quarter of Americans report being lonely, and loneliness seems to come not from being alone, but from lack of intimacy.
+
+22.But powerful evidence has recently appeared that 'wanting' and 'liking' are served by fundamentally different brain systems— systems that often do, but certainly need not, work together.
+
+23.Remember that 65 percent of people who didn't have cancer said that if they got it, they would prefer to choose their treatment. Of those who actually had cancer, 88 percent said they would prefer not to choose. Apparently we always think we want choice, but when we actually get it, we may not like it. Meanwhile, the need to chose in ever more aspects of life causes us more distress than we realize.
+
+24.Part of the downside of abundant choice is that each new option adds to the list of trade-offs, and trade-offs have psychological consequences. The necessity of making trade-offs alters how we feel about the decisions we face; more important, it affects the level of satisfaction we experience from the decisions we ultimately make.
+
+25.The point is, even decisions that appear to be no-brainers carry the hidden costs of the options declined. Thinking about opportunity costs may not change the decision you make, but it will give you a more realistic assessment of the full implications of that decision.
+According to standard economic assumptions, the only opportunity costs that should figure into a decision are the ones associated with the next-best alternative. So let's say your options for next Saturday night, listed in order of preference, include:
+	1. Dinner in a nice restaurant
+	2. A quick dinner and a movie
+	3. Music at a jazz club
+	4. Dancing
+	5. Cooking dinner for a few friends
+	6. Going to a baseball game
+If you go for the dinner, the 'cost' will be whatever you pay for the meal, plus the passed up opportunity to see a movie. According to economists, that's where your 'cost accounting' should stop. Which is also excellent advice for managing our own psychological response to choice. Pay attention to what you're giving up in the next-best alternative, but don't waste energy feeling bad about having passed up an option further down the list that you wouldn't have gotten to anyway.
+
+26.So the researchers concluded that being forced to confront trade-offs in making decisions makes people unhappy and indecisive.
+
+27.Adding the second option creates a conflict,forcing a trade-off between price and quality.
+
+28.Based on these studies, and others like them, researchers concluded that when people are presented with options involving trade-offs that create conflict, all choices begin to look unappealing.
+
+29.Respondents cling to the form of the question('award' or 'deny') as a guide to the kinds of reasons they will be ooking for.
+
+30.Clearly, the cumulative opportunity cost of adding options to one's choice set can reduce satisfaction.
+
+31.Even decisions as trivial as renting a video become important if we believe that these decisions are revealing something significant about ourselves.
+
+32.While this result doesn't necessarily show that thinking about reasons for decisions makes them worse, it does show that thinking about reasons can alter the decisions. This implies that people are not always thinking first and deciding second.
+
+33.Again, the likely explanation is that what is most easily put into words is not necessarily what is most important. But once aspects of a relationship are put into words, their importance to the verbalizer takes on added significance.
+
+34.As in the poster study, being asked to give reasons can make unimportant considerations salient temporarily and produce a less, not a more, accurate assessment of how people really feel. In discussing these studies, I am not suggesting that we will always, or even frequently, be better off 'going with our gut' when making choices. What I am suggesting is there are pitfalls to deciding after analyzing.
+
+35.The anguish and inertia caused by having too many choices was described in the book Quarterlife Crisis: The Unique Challenges of Life in Your Twenties.
+
+36.This is postdecision regret, regret that occurs after we've experienced the results of a decision. But there is also something called anticipated regret, which rears its head even before a decision is made.
+
+37.Anticipated regret will make decisions harder to make, and postdecision regret will make them harder to enjoy.
+
+38.Most of us seem to share the intuition that we regret actions that don't turn out well more than we regret failures to take actions that would have turned out well. This is sometimes referred to as an omission bias, a bias to downplay omissions (failures to act) when we evaluate the consequences of our decisions.
+
+39.When asked about what they regret most in the last six months, people tend to identify actions that didn't meet expectations. But when asked about what they regret most when they look back on their lives as a whole, people tend to identify failures to act.
+
+40.When you miss your objective by a lot, it is hard to imagine that small differences would have led to a successful result. But when you miss by a little, ouch.
+
+41.Thinking about the world as it isn't, but might be or might have been, is called counterfactual thinking. 
+
+42.There is also an important distinction to be made between 'upward' and 'downward' counterfactuals. Upward counterfactuals are imagined states that are better than what actually happened, and downward counterfactuals are imagined states that are worse.
+
+43.What studies have shown, however, is that people rarely produce downward counterfactuals unless asked specifically to do so.
+44.The lesson is that we should try to do more downward counterfactual thinking. While upward counterfactual thinking may inspire us to do better the next time, downward counterfactual thinking may induce us to be grateful for how well we did this time. The right balance of upward and downward counterfactual thinking may enable us to avoid spiraling into a state of misery while at the same time inspiring us to improve our performance.
+45.And what counterfactual thinking does is establish a contrast between a person's actual experience and an imagined alternative.
+
+46.What leads me to believe that sunk-cost effects are motivated by the desire to avoid regret rather than just the desire to avoid a loss is that sunk-cost effects are much bigger when a person bears responsibility for the initial decision (to buy the ski tickets or the expensive shoes). If sunk-cost effects are just about hating to lose, then whether the loss is your responsibility or not is irrelevant; it's the same loss.
+
+47.I know the earth is getting warmer, but the climate hasn't changed that much in thirty years. What has changed is our standard of comfort.
+
+48.So the more choices we have, the more effort goes into our decisions, and the more we expect to enjoy the benefits of those decisions. Adaptation, by dramatically truncating the duration of those benefits, puts us into a state of mind where the result just wasn't worth the effort. The more we invest in a decision, the more we expect to realize from our investment. And adaptation makes agonizing over decisions a bad investment. 
+49.But at the same time, happiness doesn't count for nothing, and subjective experience isn't trivial. If adaptation saddles people with a subjective experience of their choices that doesn't justify the effort that went into making those choices, people will begin to see choice not as a liberator but as a burden.
+
+50.If you live in a world in which you experience misery more often than joy, adaptation is very beneficial. It may be the only thing that gives you the strength and courage to get through the day. But if you live in a world of plenty, in which sources of joy outnumber sources of misery, then adaptation defeats your attempts to enjoy your good fortune.
+
+51.However, simply by being aware of the process we can anticipate its effects, and therefore be less disappointed when it comes. This means that when we are making decisions, we should think about how each of the options will feel not just tomorrow, but months or even years later.
+
+52.Social scientist Alex Michalos, in his discussion of the perceived quality of experience, argued that people establish standards of satisfaction based on the assessment of three gaps: 'the gap between what one has and wants, the gap between what one has and thinks others like oneself have, and the gap between what one has and the best one has had in the past.'
+
+53.To these three comparisons I have added a fourth: the gap between what one has and what one expects.
+
+54.The lesson here is that high expectations can be counterproductive. We probably can do more to affect the quality of our lives by controlling our expectations than we can by doing virtually anything else. The blessing of modest expectations is that they leave room for many experiences to be a pleasant surprise, a hedonic plus. The challenge is to find a way to keep expectations modest, even as actual experiences keep getting better.
+One way of achieving this goal is by keeping wonderful experiences rare. No matter what you can afford, save great wine for special occasions. No matter what you can afford, make that perfectly cut, elegantly styled, silk blouse a special treat. This may seem like an exercise in self-denial, but I don't think it is. On the contrary, it's a way to make sure that you can continue to experience pleasure. What's the point of great meals, great wines, and great blouses if they don't make you feel great?
+
+55.'How am I doing?' almost always carries 'compared to others' in parentheses.
+
+56.People are driven to social comparison largely because they care about status, and status, of course, has social comparison built into it. Part of the satisfaction from achievements and possessions comes from the awareness that not everyone can match them. 
+
+57.Our social and economic system, which is based in part on an unequal distribution of scarce and highly desirable commodities, inherently propels people into lives of perpetual social comparison and dissatisfaction, so that reforming people without paying attention to the system won't work.
+
+58.When people pursue goods that are positional, they can't help being in the rat race. To choose not to run is to lose.
+
+59.Better to be told that you're a pretty bad teacher but that others are even worse than to be told that you're a pretty good teacher, but others are better.
+
+60.The inference here is that distraction versus rumination is the critical distinction. Happy people have the ability to distract themselves and move on, whereas unhappy people get stuck ruminating and make themselves more and more miserable.
+
+61.The symptoms of depression include
+	Loss of interest or pleasure in routine daily activities, including work and family
+	Loss of energy, fatigue
+	Feelings of worthlessness, guilt, and self-blame ndecisiveness
+	Inability to concentrate or think clearly
+	Recurrent thoughts of death, including thoughts of suicide
+	Insomnia
+	Loss of interest in sex
+	Loss of interest in food
+	Sadness: feelings of helplessness, hopelessness
+	Low self-esteem
+
+
+62.The different reactions of the two groups caused researchers to conclude that it is not dancing toy animals that are an endless source of delight for infants, but rather having control.
+
+63.Young infants have little control over anything. They can't move their bodies toward things they want or away from things that are unpleasant. They don't have very good control over their hands, so that grasping and manipulating objects is not easy. They get poked, prodded, picked up, and put down at unpredictable and inexplicable times. The world is just a set of things that happen to them, leaving them completely at the mercy of others. It is perhaps for just this reason that the occasional bits of evidence that they can control certain things are so salient and so exciting.
+
+64.According to the new theory, when people experience a failure, a lack of control, they ask themselves why. 
+
+65.What Seligman and his colleagues proposed was that when people are looking for causes for failure, they display a variety of predispositions to accept one type of cause or another, quite apart from what the actual cause of the failure might be. There are three key dimensions to these predispositions, based on whether we view causes as being global or specific, chronic or transient, personal or universal.
+
+66.The revised theory of helplessness and depression argued that helplessness induced by failure or lack of control leads to depression if a person's causal explanations for that failure are global, chronic, and personal.
+
+67.I'm not suggesting that taking credit for every success and blaming the world for every failure is the recipe for a successful and happy life. There is much to be gained by arriving at causal explanations that are accurate, whatever the psychological cost, because it is accurate explanations that offer the best chance of producing better results the next time. Nonetheless, I think it is fair to say that for most people, most of the time, excessive self-blame has bad psychological consequences. And as we'll see, it is much easier to blame yourself for disappointing results in a world that provides unlimited choice than in a world in which options are limited.
+
+68.The key fact about psychological life in societies in which you have little control over these aspects of life is that you also have little expectation of control. And because of this, I think, lack of control does not lead to feelings of helplessness and depression.
+
+69.Our heightened individualism means that, not only do we expect perfection in all things, but we expect to produce this perfection ourselves.
+
+70.As a corollary, the modern emphasis on individual autonomy and control may be neutralizing a crucial vaccine against depression: deep commitment and belonging to social groups and institutions—families, civic associations, faith communities, and the like. There is an inherent tension between being your own person, or determining your own 'self,' and meaningful involvement in social groups. Significant social involvement requires subordinating the self. So the more we focus on ourselves, the more our connections to others weakens.
+
+71.The combination of genes and early experience plays a major role in determining what we look like as adults, and virtually all diets tend to produce only short-term changes. These facts about body weight are directly contradicted by what the culture tells us every day. Media and peer pressure tells us that obesity is a matter of choice, personal control, and personal responsibility, that we should aspire to look perfect, and that if we don't, we have only ourselves to blame. According to the culture, if we had enough discipline and self-control we could combine sensible eating habits and exercise regimes and all look like movie stars. That in a typical year Americans buy more than 50 million diet books and spend more than $50 billion on dieting suggests that most Americans accept the view that what they look like is up to them.
+
+72.Paradoxcally, even at a time and place when excessive expectations of and aspirations for control are contributing to an epidemic of depression, those who feel that they have control are in better psychological shape than those who don't.
+
+73.Clearly, our experience of choice as a burden rather than a privilege is not a simple phenomenon. Rather it is the result of a complex interaction among many psychological processes that permeate our culture, including rising expectations, awareness of opportunity costs, aversion to trade-offs, adaptation, regret, self-blame, the tendency to engage in social comparisons, and maximizing.
+
+1.Choose When to Choose
+In other words, it isn't this or that particular choice that creates the problem; it's all the choices, taken together.
+And much of the time, better objective results and worse subjective results are exactly what our overabundance of options provides. To manage the problem of excessive choice, we must decide which choices in our lives really matter and focus our time and energy there, letting many other opportunities pass us by. But by restricting our options, we will be able to choose less and feel better.
+Try the following:
+    1.Review some recent decisions that you've made, both small and large (a clothing purchase, a new kitchen appliance, a vacation destination, a retirement pensionallocation, a medical procedure, a job or relationship change).
+    2.Itemize the steps, time, research, and anxiety that went into making those decisions.
+    3.Remind yourself how it felt to do that work.
+    4.Ask yourself how much your final decision benefited from that work.
+ 
+2.Be a Chooser, Not a Picker
+Choosers are people whe are able to reflect on what makes a decision important, on whether, perhaps, none of the options should be chosen, on whether a new option should be created, and on what a particular choice says about the chooser as an individual. It is choosers who create new opportunities for themselves and everyone else.
+Choosers have the time to modify their goals; pickers do not. Choosers have the time to avoid following the herd; pickers do not. Good decisions take time and attention, and the only way we can find the needed time and attention is by choosing our spots.
+
+3.Satisfice More and Maximize Less
+Learning to accept 'good enough' will simplify decision making and increase satisfaction.
+The trick is to learn to embrace and appreciate satisficing, to cultivate it in more and more aspects of life, rather than merely being resigned to it.   To become a satisficer, however, requires that you think carefully about your goals and aspirations, and that you develop well-defined standards for what is 'good enough' whenever you face a decision. Knowing what's good enough requires knowing yourself and what you care about. So:
+	1.Think about occasions in life when you settle, comfortably, for 'good enough';
+	2.Scrutinize how you choose in those areas;
+	3.Then apply that strategy more broadly.
+
+4.Think About the Opportunity Costs of Opportunity Costs
+Ignoring these 'opportunity costs' can lead us to overestimate how good the best option is. On the other hand, the more we think about opportunity costs, the less satisfaction we'll derive from whatever we choose. So we should make an effort to limit how much we think about the attractive features of options we reject.
+There is no obvious absolute standard that we can appeal to, so some amount of reflection on opportunity costs is probably essential. But not too much. Second-order decisions can help here. When we decide to opt out of deciding in some area of life, we don't have to think about opportunity costs. And being a satisficer can help too.
+There are some strategies you can use to help you avoid the disappointment that comes from thinking about opportunity costs:
+    1.Unless you're truly dissatisfied, stick with what you always buy.
+    2.Don't be tempted by 'new and improved.'
+    3.Don't 'scratch' unless there's an 'itch.'
+    4.And don't worry that if you do this, you'll miss out on all the new things the world has to offer.
+You'll encounter plenty of new things anyway. Your friends and coworkers will tell you about products they've bought or vacations they've taken. So you'll stumble onto improvements on your habitual choices without going looking for them. If you sit back and let 'new and improved' find you, you'll spend a lot less time choosing and experience a lot less frustration over the fact that you can't find an alternative that combines all the things you like into one neat package.
+
+5.Make Your Decisions Nonreversible
+I think the power of nonreversible decisions comes through most clearly when we think about our most important choices. A friend once told me how his minister had shocked the congregation with a sermon on marriage in which he said flatly that, yes, the grass is always greener. What he meant was that, inevitably, you will encounter people who are younger, better looking, funnier, smarter, or seemingly more understanding and empathetic than your wife or husband. But finding a life partner is not a matter of comparison shopping and 'trading up.' The only way to find happiness and stability in the presence of seemingly attractive and tempting options is to say, 'I'm simply not going there. I've made my decision about a life partner, so this person's empathy or that person's looks really have nothing to do with me. I'm not in the market—end of story.' Agonizing over whether your love is 'the real thing' or your sexual relationship above or below par, and wondering whether you could have done better is a prescription for misery. Knowing that you've made a choice that you will not reverse allows you to pour your energy into improving the relationship that you have rather than constantly second-guessing it.
+
+6.Practice an 'Attitude of Gratitude'
+The research literature suggests that gratitude does not come naturally to most of us most of the time. Usually, thinking about possible alternatives is triggered by dissatisfaction with what was chosen. When life is not too good, we think a lot about how it could be better. When life is going well, we tend not to think much about how it could be worse. But with practice, we can learn to reflect on how much better things are than they might be, which will in turn make the good things in life feel even better.
+The answer is that habits of thought die hard. Chances are good that if you give yourself that general directive, you won't actually follow it. Instead you might consider adopting a simple routine:
+    1.Keep a notepad at your bedside.
+    2.Every morning, when you wake up, or every night, when you go to bed, use the notepad to list five things that happened the day before that you're grateful for. These objects of gratitude occasionally will be big (a job promotion, a great first date), but most of the time, they will be small (sunlight streaming in through the bedroom window, a kind word from a friend, a piece of swordfish cooked just the way you like it, an informative article in a magazine). 3. You will probably feel a little silly and even self-conscious when you start doing this. But if you keep it up, you will find that it gets easier and easier, more and more natural. You also may find yourself discovering many things to be grateful for on even the most ordinary of days. Finally, you may find yourself feeling better and better about your life as it is, and less and less driven to find the 'new and improved' products and activities that will enhance it.
+
+7.Regret Less
+We can mitigate regret by
+    1.Adopting the standards of a satisficer rather than a maximizer.
+    2.Reducing the number of options we consider before making a decision.
+    3.Practicing gratitude for what is good in a decision rather than focusing on our disappointments with what is bad. It also pays to remember just how complex life is and to realize how rare it is that any single decision, in and of itself, has the lifetransforming power we sometimes think.
+
+8.Anticipate Adaptation
+We adapt to almost everything we experience with any regularity. When life is hard, adaptation enables us to avoid the full brunt of the hardship. But when life is good, adaptation puts us on a 'hedonic treadmill', robbing us of the full measure of satisfaction we expect from each positive experience. We can't prevent adaptation. What we can do is develop realistic expectations about how experiences change with time. 
+Learning to be satisfied as pleasures turn into mere comforts will ease disappointment with adaptation when it occurs. We can also reduce disappointment from adaptation by following the satisficer's strategy of spending less time and energy researching and agonizing over decisions. In addition to being aware of the hedonic treadmill, we should also be wary of the 'satisfaction treadmill.' This is the 'double whammy' of adaptation. Not only do we adapt to a given experience so that it feels less good over time, but we can also adapt to a given level of feeling good so that it stops feeling good enough. Here the habit of gratitude can be helpful too. 
+So, to be better prepared for, and less disappointed by adaptation:
+     1.As you buy your new car, acknowledge that the thrill won't be quite the same two months after you own it.
+     2.Spend less time looking for the perfect thing (maximizing), so that you won't have huge search costs to be 'amortized' against the satisfaction you derive from what you actually choose.
+     .Remind yourself of how good things actually are instead of focusing on how they're less good than they were at first.
+
+9.Control Expectations
+So to make the task of lowering expectations easier:
+     1.Reduce the number of options you consider.
+     2.Be a satisficer rather than a maximizer.
+     3.Allow for serendipity.
+
+10.Curtail Social Comparison
+Following the other suggestions I've made may sometimes mean that when judged by an absolute standard, the results of decisions will be less good than they might otherwise have been—all the more reason to fight the tendency to make social comparisons.
+So:
+     1. Remember that 'He who dies with the most toys wins' is a bumper sticker, not wisdom.
+     2. Focus on what makes you happy, and what gives meaning to your life.
+
+11.Learn to Love Constraints
+Society provides rules, standards, and norms for making choices, and individual experience creates habits. By deciding to follow a rule (for example, always wear a seat belt; never drink more than two glasses of wine in one evening), we avoid having to make a deliberate decision again and again. This kind of rule-following frees up time and attention that can be devoted to thinking about choices and decisions to which rules don't apply.
