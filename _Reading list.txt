@@ -65,7 +65,7 @@ Reading list
 《即兴演讲》
 《生活需要仪式感》
 《穿衣的基本》
- 《娱乐至死》
+《娱乐至死》
 《鸟哥的私房菜》
 《Python Crush Courses》
 《Introduction to Algorithms》
